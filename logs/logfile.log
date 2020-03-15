@@ -1,0 +1,476 @@
+03/12/2020 10:32:02 PM - Testcase_104_VerifyLocation - INFO: ########################################
+03/12/2020 10:32:02 PM - Testcase_104_VerifyLocation - INFO: 'test_TC04_verifyLocation' started.
+03/12/2020 10:32:02 PM - Testcase_104_VerifyLocation - INFO: ########################################
+03/12/2020 10:32:02 PM - Testcase_104_VerifyLocation - INFO: Log in to Hotel app.
+03/12/2020 10:32:02 PM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: name
+03/12/2020 10:32:02 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: name
+03/12/2020 10:32:02 PM - SeleniumDriver - INFO: Typed in user name filed - seattletester
+03/12/2020 10:32:03 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: name
+03/12/2020 10:32:03 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: name
+03/12/2020 10:32:03 PM - SeleniumDriver - INFO: Typed in password filed - Seattle123
+03/12/2020 10:32:04 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: name
+03/12/2020 10:32:05 PM - SeleniumDriver - INFO: Clicked on element with locator: login locatorType: name
+03/12/2020 10:32:05 PM - SeleniumDriver - INFO: Clicked Login Button.
+03/12/2020 10:32:05 PM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/12/2020 10:32:05 PM - SeleniumDriver - INFO: Element appeared on the web page
+03/12/2020 10:32:05 PM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/12/2020 10:32:05 PM - SeleniumDriver - INFO: Element present with locator: location locatorType: name
+03/12/2020 10:32:05 PM - Testcase_104_VerifyLocation - INFO: ### VERIFICATION SUCCESSFUL :: Login.
+03/12/2020 10:32:06 PM - Testcase_104_VerifyLocation - INFO: Input data in Search Hotel Page.
+03/12/2020 10:32:06 PM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/12/2020 10:32:06 PM - SeleniumDriver - INFO: Select on element with locator: location locatorType: name
+03/12/2020 10:32:06 PM - SeleniumDriver - INFO: Selected Location - Sydney
+03/12/2020 10:32:07 PM - SeleniumDriver - INFO: Element found with locator: hotels and  locatorType: name
+03/12/2020 10:32:07 PM - SeleniumDriver - INFO: Select on element with locator: hotels locatorType: name
+03/12/2020 10:32:07 PM - SeleniumDriver - INFO: Selected Hotel - Hotel Creek
+03/12/2020 10:32:08 PM - SeleniumDriver - INFO: Element found with locator: room_type and  locatorType: name
+03/12/2020 10:32:09 PM - SeleniumDriver - INFO: Select on element with locator: room_type locatorType: name
+03/12/2020 10:32:09 PM - SeleniumDriver - INFO: Selected Room Type - Standard
+03/12/2020 10:32:10 PM - SeleniumDriver - INFO: Element found with locator: room_nos and  locatorType: name
+03/12/2020 10:32:10 PM - SeleniumDriver - INFO: Select on element with locator: room_nos locatorType: name
+03/12/2020 10:32:10 PM - SeleniumDriver - INFO: Selected Room Number - 1 - One
+03/12/2020 10:32:11 PM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/12/2020 10:32:11 PM - SeleniumDriver - INFO: Clear field with locator: datepick_in locatorType: name
+03/12/2020 10:32:11 PM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/12/2020 10:32:11 PM - SeleniumDriver - INFO: Sent data on element with locator: datepick_in locatorType: name
+03/12/2020 10:32:11 PM - SeleniumDriver - INFO: Typed Check In date - 12/10/2020
+03/12/2020 10:32:12 PM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/12/2020 10:32:12 PM - SeleniumDriver - INFO: Clear field with locator: datepick_out locatorType: name
+03/12/2020 10:32:12 PM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/12/2020 10:32:12 PM - SeleniumDriver - INFO: Sent data on element with locator: datepick_out locatorType: name
+03/12/2020 10:32:12 PM - SeleniumDriver - INFO: Typed Check Out date - 12/15/2020
+03/12/2020 10:32:13 PM - SeleniumDriver - INFO: Element found with locator: adult_room and  locatorType: name
+03/12/2020 10:32:13 PM - SeleniumDriver - INFO: Select on element with locator: adult_room locatorType: name
+03/12/2020 10:32:13 PM - SeleniumDriver - INFO: Selected Adults Per Room - 1 - One
+03/12/2020 10:32:14 PM - SeleniumDriver - INFO: Element found with locator: child_room and  locatorType: name
+03/12/2020 10:32:14 PM - SeleniumDriver - INFO: Select on element with locator: child_room locatorType: name
+03/12/2020 10:32:14 PM - SeleniumDriver - INFO: Selected Children Per Room - 1 - One
+03/12/2020 10:32:15 PM - Testcase_104_VerifyLocation - INFO: Click Search button.
+03/12/2020 10:32:15 PM - SeleniumDriver - INFO: Element found with locator: Submit and  locatorType: name
+03/12/2020 10:32:16 PM - SeleniumDriver - INFO: Clicked on element with locator: Submit locatorType: name
+03/12/2020 10:32:16 PM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/12/2020 10:32:16 PM - SeleniumDriver - INFO: Element appeared on the web page
+03/12/2020 10:32:16 PM - SeleniumDriver - INFO: Element found with locator: continue and  locatorType: name
+03/12/2020 10:32:16 PM - SeleniumDriver - INFO: Element present with locator: continue locatorType: name
+03/12/2020 10:32:17 PM - SeleniumDriver - INFO: Element found with locator: hotel_name_0 and  locatorType: name
+03/12/2020 10:40:40 PM - Testcase_101_VerifyLogin - INFO: ########################################
+03/12/2020 10:40:40 PM - Testcase_101_VerifyLogin - INFO: 'test_TC01_verifylogin' started.
+03/12/2020 10:40:40 PM - Testcase_101_VerifyLogin - INFO: ########################################
+03/12/2020 10:40:40 PM - Testcase_101_VerifyLogin - INFO: Log in to Hotel app.
+03/12/2020 10:40:40 PM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: name
+03/12/2020 10:40:40 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: name
+03/12/2020 10:40:40 PM - SeleniumDriver - INFO: Typed in user name filed - seattletester
+03/12/2020 10:40:41 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: name
+03/12/2020 10:40:41 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: name
+03/12/2020 10:40:41 PM - SeleniumDriver - INFO: Typed in password filed - Seattle123
+03/12/2020 10:40:42 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: name
+03/12/2020 10:40:47 PM - SeleniumDriver - INFO: Clicked on element with locator: login locatorType: name
+03/12/2020 10:40:47 PM - SeleniumDriver - INFO: Clicked Login Button.
+03/12/2020 10:40:47 PM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/12/2020 10:40:47 PM - SeleniumDriver - INFO: Element appeared on the web page
+03/12/2020 10:40:47 PM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/12/2020 10:40:47 PM - SeleniumDriver - INFO: Element present with locator: location locatorType: name
+03/12/2020 10:40:47 PM - Testcase_101_VerifyLogin - INFO: ### VERIFICATION SUCCESSFUL :: Login.
+03/12/2020 10:40:47 PM - Testcase_101_VerifyLogin - INFO: ########################################
+03/12/2020 10:40:47 PM - Testcase_101_VerifyLogin - INFO: 'test_TC01_verifylogin' completed.
+03/12/2020 10:40:47 PM - Testcase_101_VerifyLogin - INFO: ########################################
+03/12/2020 10:40:59 PM - Testcase_102_VerifyCheckOutError - INFO: ########################################
+03/12/2020 10:40:59 PM - Testcase_102_VerifyCheckOutError - INFO: 'test_TC02_verifyCheckoutError' started.
+03/12/2020 10:40:59 PM - Testcase_102_VerifyCheckOutError - INFO: ########################################
+03/12/2020 10:40:59 PM - Testcase_102_VerifyCheckOutError - INFO: Log in to Hotel app.
+03/12/2020 10:40:59 PM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: name
+03/12/2020 10:40:59 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: name
+03/12/2020 10:40:59 PM - SeleniumDriver - INFO: Typed in user name filed - seattletester
+03/12/2020 10:41:00 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: name
+03/12/2020 10:41:00 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: name
+03/12/2020 10:41:00 PM - SeleniumDriver - INFO: Typed in password filed - Seattle123
+03/12/2020 10:41:01 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: name
+03/12/2020 10:41:02 PM - SeleniumDriver - INFO: Clicked on element with locator: login locatorType: name
+03/12/2020 10:41:02 PM - SeleniumDriver - INFO: Clicked Login Button.
+03/12/2020 10:41:02 PM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/12/2020 10:41:02 PM - SeleniumDriver - INFO: Element appeared on the web page
+03/12/2020 10:41:02 PM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/12/2020 10:41:02 PM - SeleniumDriver - INFO: Element present with locator: location locatorType: name
+03/12/2020 10:41:02 PM - Testcase_102_VerifyCheckOutError - INFO: ### VERIFICATION SUCCESSFUL :: Login.
+03/12/2020 10:41:03 PM - Testcase_102_VerifyCheckOutError - INFO: Input data in Search Hotel Page.
+03/12/2020 10:41:03 PM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/12/2020 10:41:03 PM - SeleniumDriver - INFO: Select on element with locator: location locatorType: name
+03/12/2020 10:41:03 PM - SeleniumDriver - INFO: Selected Location - Sydney
+03/12/2020 10:41:04 PM - SeleniumDriver - INFO: Element found with locator: hotels and  locatorType: name
+03/12/2020 10:41:04 PM - SeleniumDriver - INFO: Select on element with locator: hotels locatorType: name
+03/12/2020 10:41:04 PM - SeleniumDriver - INFO: Selected Hotel - Hotel Creek
+03/12/2020 10:41:06 PM - SeleniumDriver - INFO: Element found with locator: room_type and  locatorType: name
+03/12/2020 10:41:06 PM - SeleniumDriver - INFO: Select on element with locator: room_type locatorType: name
+03/12/2020 10:41:06 PM - SeleniumDriver - INFO: Selected Room Type - Standard
+03/12/2020 10:41:07 PM - SeleniumDriver - INFO: Element found with locator: room_nos and  locatorType: name
+03/12/2020 10:41:07 PM - SeleniumDriver - INFO: Select on element with locator: room_nos locatorType: name
+03/12/2020 10:41:07 PM - SeleniumDriver - INFO: Selected Room Number - 1 - One
+03/12/2020 10:41:08 PM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/12/2020 10:41:08 PM - SeleniumDriver - INFO: Clear field with locator: datepick_in locatorType: name
+03/12/2020 10:41:08 PM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/12/2020 10:41:08 PM - SeleniumDriver - INFO: Sent data on element with locator: datepick_in locatorType: name
+03/12/2020 10:41:08 PM - SeleniumDriver - INFO: Typed Check In date - 12/20/2020
+03/12/2020 10:41:09 PM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/12/2020 10:41:09 PM - SeleniumDriver - INFO: Clear field with locator: datepick_out locatorType: name
+03/12/2020 10:41:09 PM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/12/2020 10:41:09 PM - SeleniumDriver - INFO: Sent data on element with locator: datepick_out locatorType: name
+03/12/2020 10:41:09 PM - SeleniumDriver - INFO: Typed Check Out date - 12/15/2020
+03/12/2020 10:41:10 PM - SeleniumDriver - INFO: Element found with locator: adult_room and  locatorType: name
+03/12/2020 10:41:10 PM - SeleniumDriver - INFO: Select on element with locator: adult_room locatorType: name
+03/12/2020 10:41:10 PM - SeleniumDriver - INFO: Selected Adults Per Room - 1 - One
+03/12/2020 10:41:11 PM - SeleniumDriver - INFO: Element found with locator: child_room and  locatorType: name
+03/12/2020 10:41:11 PM - SeleniumDriver - INFO: Select on element with locator: child_room locatorType: name
+03/12/2020 10:41:11 PM - SeleniumDriver - INFO: Selected Children Per Room - 1 - One
+03/12/2020 10:41:12 PM - Testcase_102_VerifyCheckOutError - INFO: Click Search button.
+03/12/2020 10:41:12 PM - SeleniumDriver - INFO: Element found with locator: Submit and  locatorType: name
+03/12/2020 10:41:12 PM - SeleniumDriver - INFO: Clicked on element with locator: Submit locatorType: name
+03/12/2020 10:41:13 PM - SeleniumDriver - INFO: Element found with locator: checkin_span and  locatorType: id
+03/12/2020 10:41:13 PM - SeleniumDriver - INFO: Element present with locator: checkin_span locatorType: id
+03/12/2020 10:41:13 PM - Testcase_102_VerifyCheckOutError - INFO: ### VERIFICATION SUCCESSFUL :: Check in date error message.
+03/12/2020 10:41:13 PM - Testcase_102_VerifyCheckOutError - INFO: ########################################
+03/12/2020 10:41:13 PM - Testcase_102_VerifyCheckOutError - INFO: 'test_TC02_verifyCheckoutError' completed.
+03/12/2020 10:41:13 PM - Testcase_102_VerifyCheckOutError - INFO: ########################################
+03/12/2020 10:41:26 PM - Testcase_104_VerifyLocation - INFO: ########################################
+03/12/2020 10:41:26 PM - Testcase_104_VerifyLocation - INFO: 'test_TC04_verifyLocation' started.
+03/12/2020 10:41:26 PM - Testcase_104_VerifyLocation - INFO: ########################################
+03/12/2020 10:41:26 PM - Testcase_104_VerifyLocation - INFO: Log in to Hotel app.
+03/12/2020 10:41:26 PM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: name
+03/12/2020 10:41:26 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: name
+03/12/2020 10:41:26 PM - SeleniumDriver - INFO: Typed in user name filed - seattletester
+03/12/2020 10:41:27 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: name
+03/12/2020 10:41:27 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: name
+03/12/2020 10:41:27 PM - SeleniumDriver - INFO: Typed in password filed - Seattle123
+03/12/2020 10:41:28 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: name
+03/12/2020 10:41:30 PM - SeleniumDriver - INFO: Clicked on element with locator: login locatorType: name
+03/12/2020 10:41:30 PM - SeleniumDriver - INFO: Clicked Login Button.
+03/12/2020 10:41:30 PM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/12/2020 10:41:30 PM - SeleniumDriver - INFO: Element appeared on the web page
+03/12/2020 10:41:30 PM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/12/2020 10:41:30 PM - SeleniumDriver - INFO: Element present with locator: location locatorType: name
+03/12/2020 10:41:30 PM - Testcase_104_VerifyLocation - INFO: ### VERIFICATION SUCCESSFUL :: Login.
+03/12/2020 10:41:31 PM - Testcase_104_VerifyLocation - INFO: Input data in Search Hotel Page.
+03/12/2020 10:41:31 PM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/12/2020 10:41:31 PM - SeleniumDriver - INFO: Select on element with locator: location locatorType: name
+03/12/2020 10:41:31 PM - SeleniumDriver - INFO: Selected Location - Sydney
+03/12/2020 10:41:32 PM - SeleniumDriver - INFO: Element found with locator: hotels and  locatorType: name
+03/12/2020 10:41:32 PM - SeleniumDriver - INFO: Select on element with locator: hotels locatorType: name
+03/12/2020 10:41:32 PM - SeleniumDriver - INFO: Selected Hotel - Hotel Creek
+03/12/2020 10:41:33 PM - SeleniumDriver - INFO: Element found with locator: room_type and  locatorType: name
+03/12/2020 10:41:33 PM - SeleniumDriver - INFO: Select on element with locator: room_type locatorType: name
+03/12/2020 10:41:33 PM - SeleniumDriver - INFO: Selected Room Type - Standard
+03/12/2020 10:41:34 PM - SeleniumDriver - INFO: Element found with locator: room_nos and  locatorType: name
+03/12/2020 10:41:34 PM - SeleniumDriver - INFO: Select on element with locator: room_nos locatorType: name
+03/12/2020 10:41:34 PM - SeleniumDriver - INFO: Selected Room Number - 1 - One
+03/12/2020 10:41:35 PM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/12/2020 10:41:35 PM - SeleniumDriver - INFO: Clear field with locator: datepick_in locatorType: name
+03/12/2020 10:41:35 PM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/12/2020 10:41:35 PM - SeleniumDriver - INFO: Sent data on element with locator: datepick_in locatorType: name
+03/12/2020 10:41:35 PM - SeleniumDriver - INFO: Typed Check In date - 12/10/2020
+03/12/2020 10:41:36 PM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/12/2020 10:41:36 PM - SeleniumDriver - INFO: Clear field with locator: datepick_out locatorType: name
+03/12/2020 10:41:36 PM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/12/2020 10:41:36 PM - SeleniumDriver - INFO: Sent data on element with locator: datepick_out locatorType: name
+03/12/2020 10:41:36 PM - SeleniumDriver - INFO: Typed Check Out date - 12/15/2020
+03/12/2020 10:41:37 PM - SeleniumDriver - INFO: Element found with locator: adult_room and  locatorType: name
+03/12/2020 10:41:37 PM - SeleniumDriver - INFO: Select on element with locator: adult_room locatorType: name
+03/12/2020 10:41:37 PM - SeleniumDriver - INFO: Selected Adults Per Room - 1 - One
+03/12/2020 10:41:38 PM - SeleniumDriver - INFO: Element found with locator: child_room and  locatorType: name
+03/12/2020 10:41:38 PM - SeleniumDriver - INFO: Select on element with locator: child_room locatorType: name
+03/12/2020 10:41:38 PM - SeleniumDriver - INFO: Selected Children Per Room - 1 - One
+03/12/2020 10:41:39 PM - Testcase_104_VerifyLocation - INFO: Click Search button.
+03/12/2020 10:41:39 PM - SeleniumDriver - INFO: Element found with locator: Submit and  locatorType: name
+03/12/2020 10:41:41 PM - SeleniumDriver - INFO: Clicked on element with locator: Submit locatorType: name
+03/12/2020 10:41:41 PM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/12/2020 10:41:41 PM - SeleniumDriver - INFO: Element appeared on the web page
+03/12/2020 10:41:41 PM - SeleniumDriver - INFO: Element found with locator: continue and  locatorType: name
+03/12/2020 10:41:41 PM - SeleniumDriver - INFO: Element present with locator: continue locatorType: name
+03/12/2020 10:41:42 PM - SeleniumDriver - INFO: Element found with locator: hotel_name_0 and  locatorType: name
+03/12/2020 10:41:42 PM - Testcase_104_VerifyLocation - INFO: 'test_TC04_verifyLocation' completed.
+03/12/2020 10:41:42 PM - Testcase_104_VerifyLocation - INFO: ########################################
+03/12/2020 10:41:42 PM - Testcase_104_VerifyLocation - INFO: ########################################
+03/14/2020 12:31:05 AM - Testcase_109_VerifyLogout - INFO: ########################################
+03/14/2020 12:31:05 AM - Testcase_109_VerifyLogout - INFO: 'test_TC09_verifyLogout' started.
+03/14/2020 12:31:05 AM - Testcase_109_VerifyLogout - INFO: ########################################
+03/14/2020 12:31:05 AM - Testcase_109_VerifyLogout - INFO: Log in to Hotel app.
+03/14/2020 12:31:05 AM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: name
+03/14/2020 12:31:05 AM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: name
+03/14/2020 12:31:05 AM - SeleniumDriver - INFO: Typed in user name filed - seattletester
+03/14/2020 12:31:06 AM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: name
+03/14/2020 12:31:06 AM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: name
+03/14/2020 12:31:06 AM - SeleniumDriver - INFO: Typed in password filed - Seattle123
+03/14/2020 12:31:07 AM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: name
+03/14/2020 12:31:09 AM - SeleniumDriver - INFO: Clicked on element with locator: login locatorType: name
+03/14/2020 12:31:09 AM - SeleniumDriver - INFO: Clicked Login Button.
+03/14/2020 12:31:09 AM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/14/2020 12:31:09 AM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 12:31:09 AM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/14/2020 12:31:09 AM - SeleniumDriver - INFO: Element present with locator: location locatorType: name
+03/14/2020 12:31:10 AM - Testcase_109_VerifyLogout - INFO: Input data in Search Hotel Page.
+03/14/2020 12:31:10 AM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/14/2020 12:31:10 AM - SeleniumDriver - INFO: Select on element with locator: location locatorType: name
+03/14/2020 12:31:10 AM - SeleniumDriver - INFO: Selected Location - Sydney
+03/14/2020 12:31:11 AM - SeleniumDriver - INFO: Element found with locator: hotels and  locatorType: name
+03/14/2020 12:31:11 AM - SeleniumDriver - INFO: Select on element with locator: hotels locatorType: name
+03/14/2020 12:31:11 AM - SeleniumDriver - INFO: Selected Hotel - Hotel Creek
+03/14/2020 12:31:12 AM - SeleniumDriver - INFO: Element found with locator: room_type and  locatorType: name
+03/14/2020 12:31:12 AM - SeleniumDriver - INFO: Select on element with locator: room_type locatorType: name
+03/14/2020 12:31:12 AM - SeleniumDriver - INFO: Selected Room Type - Standard
+03/14/2020 12:31:13 AM - SeleniumDriver - INFO: Element found with locator: room_nos and  locatorType: name
+03/14/2020 12:31:13 AM - SeleniumDriver - INFO: Select on element with locator: room_nos locatorType: name
+03/14/2020 12:31:13 AM - SeleniumDriver - INFO: Selected Room Number - 1 - One
+03/14/2020 12:31:14 AM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/14/2020 12:31:14 AM - SeleniumDriver - INFO: Clear field with locator: datepick_in locatorType: name
+03/14/2020 12:31:14 AM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/14/2020 12:31:14 AM - SeleniumDriver - INFO: Sent data on element with locator: datepick_in locatorType: name
+03/14/2020 12:31:14 AM - SeleniumDriver - INFO: Typed Check In date - 12/10/2020
+03/14/2020 12:31:15 AM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/14/2020 12:31:15 AM - SeleniumDriver - INFO: Clear field with locator: datepick_out locatorType: name
+03/14/2020 12:31:15 AM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/14/2020 12:31:16 AM - SeleniumDriver - INFO: Sent data on element with locator: datepick_out locatorType: name
+03/14/2020 12:31:16 AM - SeleniumDriver - INFO: Typed Check Out date - 12/15/2020
+03/14/2020 12:31:17 AM - SeleniumDriver - INFO: Element found with locator: adult_room and  locatorType: name
+03/14/2020 12:31:17 AM - SeleniumDriver - INFO: Select on element with locator: adult_room locatorType: name
+03/14/2020 12:31:17 AM - SeleniumDriver - INFO: Selected Adults Per Room - 1 - One
+03/14/2020 12:31:18 AM - SeleniumDriver - INFO: Element found with locator: child_room and  locatorType: name
+03/14/2020 12:31:18 AM - SeleniumDriver - INFO: Select on element with locator: child_room locatorType: name
+03/14/2020 12:31:18 AM - SeleniumDriver - INFO: Selected Children Per Room - 1 - One
+03/14/2020 12:31:19 AM - Testcase_109_VerifyLogout - INFO: Click Search button.
+03/14/2020 12:31:19 AM - SeleniumDriver - INFO: Element found with locator: Submit and  locatorType: name
+03/14/2020 12:31:19 AM - SeleniumDriver - INFO: Clicked on element with locator: Submit locatorType: name
+03/14/2020 12:31:19 AM - Testcase_109_VerifyLogout - INFO: Search Page verify.
+03/14/2020 12:31:19 AM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/14/2020 12:31:19 AM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 12:31:19 AM - SeleniumDriver - INFO: Element found with locator: continue and  locatorType: name
+03/14/2020 12:31:19 AM - SeleniumDriver - INFO: Element present with locator: continue locatorType: name
+03/14/2020 12:31:20 AM - SeleniumDriver - INFO: Element found with locator: radiobutton_0 and  locatorType: name
+03/14/2020 12:31:20 AM - SeleniumDriver - INFO: Clicked on element with locator: radiobutton_0 locatorType: name
+03/14/2020 12:31:20 AM - SeleniumDriver - INFO: Selected first row in Select Hotel Page.
+03/14/2020 12:31:21 AM - SeleniumDriver - INFO: Element found with locator: continue and  locatorType: name
+03/14/2020 12:31:22 AM - SeleniumDriver - INFO: Clicked on element with locator: continue locatorType: name
+03/14/2020 12:31:22 AM - SeleniumDriver - INFO: Clicked 'Continue' button.
+03/14/2020 12:31:22 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+03/14/2020 12:31:22 AM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 12:31:22 AM - SeleniumDriver - INFO: Element found with locator: first_name and  locatorType: name
+03/14/2020 12:31:22 AM - SeleniumDriver - INFO: Element present with locator: first_name locatorType: name
+03/14/2020 12:31:23 AM - SeleniumDriver - INFO: Element found with locator: first_name and  locatorType: name
+03/14/2020 12:31:23 AM - SeleniumDriver - INFO: Sent data on element with locator: first_name locatorType: name
+03/14/2020 12:31:23 AM - SeleniumDriver - INFO: Typed in First Name filed - Jay
+03/14/2020 12:31:24 AM - SeleniumDriver - INFO: Element found with locator: last_name and  locatorType: name
+03/14/2020 12:31:24 AM - SeleniumDriver - INFO: Sent data on element with locator: last_name locatorType: name
+03/14/2020 12:31:24 AM - SeleniumDriver - INFO: Typed in Last Name filed - Jo
+03/14/2020 12:31:25 AM - SeleniumDriver - INFO: Element found with locator: address and  locatorType: name
+03/14/2020 12:31:25 AM - SeleniumDriver - INFO: Sent data on element with locator: address locatorType: name
+03/14/2020 12:31:25 AM - SeleniumDriver - INFO: Typed in Billing Address filed - Bellevue
+03/14/2020 12:31:26 AM - SeleniumDriver - INFO: Element found with locator: cc_num and  locatorType: name
+03/14/2020 12:31:26 AM - SeleniumDriver - INFO: Sent data on element with locator: cc_num locatorType: name
+03/14/2020 12:31:26 AM - SeleniumDriver - INFO: Typed in Credit Card Number filed - 1234567898765432
+03/14/2020 12:31:27 AM - SeleniumDriver - INFO: Element found with locator: cc_type and  locatorType: name
+03/14/2020 12:31:27 AM - SeleniumDriver - INFO: Select on element with locator: cc_type locatorType: name
+03/14/2020 12:31:27 AM - SeleniumDriver - INFO: Selected in Credit Card Type - VISA
+03/14/2020 12:31:28 AM - SeleniumDriver - INFO: Element found with locator: cc_exp_month and  locatorType: name
+03/14/2020 12:31:28 AM - SeleniumDriver - INFO: Select on element with locator: cc_exp_month locatorType: name
+03/14/2020 12:31:28 AM - SeleniumDriver - INFO: Selected in Credit Card Expiry Month - May
+03/14/2020 12:31:29 AM - SeleniumDriver - INFO: Element found with locator: cc_exp_year and  locatorType: name
+03/14/2020 12:31:29 AM - SeleniumDriver - INFO: Select on element with locator: cc_exp_year locatorType: name
+03/14/2020 12:31:29 AM - SeleniumDriver - INFO: Selected in Credit Card Expiry Year - 2021
+03/14/2020 12:31:30 AM - SeleniumDriver - INFO: Element found with locator: cc_cvv and  locatorType: name
+03/14/2020 12:31:30 AM - SeleniumDriver - INFO: Sent data on element with locator: cc_cvv locatorType: name
+03/14/2020 12:31:30 AM - SeleniumDriver - INFO: Typed in Billing Address filed - 123
+03/14/2020 12:31:31 AM - SeleniumDriver - INFO: Element found with locator: book_now and  locatorType: name
+03/14/2020 12:31:31 AM - SeleniumDriver - INFO: Clicked on element with locator: book_now locatorType: name
+03/14/2020 12:31:31 AM - SeleniumDriver - INFO: Clicked Book Now button.
+03/14/2020 12:31:31 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+03/14/2020 12:31:37 AM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 12:31:37 AM - SeleniumDriver - INFO: Element found with locator: order_no and  locatorType: name
+03/14/2020 12:31:37 AM - SeleniumDriver - INFO: Element present with locator: order_no locatorType: name
+03/14/2020 12:31:38 AM - SeleniumDriver - INFO: Element found with locator: logout and  locatorType: name
+03/14/2020 12:31:38 AM - SeleniumDriver - INFO: Clicked on element with locator: logout locatorType: name
+03/14/2020 12:31:38 AM - SeleniumDriver - INFO: Clicked Logout button.
+03/14/2020 12:31:38 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+03/14/2020 12:31:38 AM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 12:31:38 AM - SeleniumDriver - INFO: Element found with locator: //td[@class='reg_success'] and  locatorType: xpath
+03/14/2020 12:31:38 AM - SeleniumDriver - INFO: Getting text on element :: 
+03/14/2020 12:31:38 AM - SeleniumDriver - INFO: The text is :: 'You have successfully logged out. Click here to login again'
+03/14/2020 12:33:18 AM - Testcase_109_VerifyLogout - INFO: ########################################
+03/14/2020 12:33:18 AM - Testcase_109_VerifyLogout - INFO: 'test_TC09_verifyLogout' started.
+03/14/2020 12:33:18 AM - Testcase_109_VerifyLogout - INFO: ########################################
+03/14/2020 12:33:18 AM - Testcase_109_VerifyLogout - INFO: Log in to Hotel app.
+03/14/2020 12:33:18 AM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: name
+03/14/2020 12:33:18 AM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: name
+03/14/2020 12:33:18 AM - SeleniumDriver - INFO: Typed in user name filed - seattletester
+03/14/2020 12:33:19 AM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: name
+03/14/2020 12:33:19 AM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: name
+03/14/2020 12:33:19 AM - SeleniumDriver - INFO: Typed in password filed - Seattle123
+03/14/2020 12:33:20 AM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: name
+03/14/2020 12:33:22 AM - SeleniumDriver - INFO: Clicked on element with locator: login locatorType: name
+03/14/2020 12:33:22 AM - SeleniumDriver - INFO: Clicked Login Button.
+03/14/2020 12:33:22 AM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/14/2020 12:33:22 AM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 12:33:22 AM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/14/2020 12:33:22 AM - SeleniumDriver - INFO: Element present with locator: location locatorType: name
+03/14/2020 12:33:23 AM - Testcase_109_VerifyLogout - INFO: Input data in Search Hotel Page.
+03/14/2020 12:33:23 AM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/14/2020 12:33:23 AM - SeleniumDriver - INFO: Select on element with locator: location locatorType: name
+03/14/2020 12:33:23 AM - SeleniumDriver - INFO: Selected Location - Sydney
+03/14/2020 12:33:24 AM - SeleniumDriver - INFO: Element found with locator: hotels and  locatorType: name
+03/14/2020 12:33:24 AM - SeleniumDriver - INFO: Select on element with locator: hotels locatorType: name
+03/14/2020 12:33:24 AM - SeleniumDriver - INFO: Selected Hotel - Hotel Creek
+03/14/2020 12:33:25 AM - SeleniumDriver - INFO: Element found with locator: room_type and  locatorType: name
+03/14/2020 12:33:25 AM - SeleniumDriver - INFO: Select on element with locator: room_type locatorType: name
+03/14/2020 12:33:25 AM - SeleniumDriver - INFO: Selected Room Type - Standard
+03/14/2020 12:33:26 AM - SeleniumDriver - INFO: Element found with locator: room_nos and  locatorType: name
+03/14/2020 12:33:27 AM - SeleniumDriver - INFO: Select on element with locator: room_nos locatorType: name
+03/14/2020 12:33:27 AM - SeleniumDriver - INFO: Selected Room Number - 1 - One
+03/14/2020 12:33:28 AM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/14/2020 12:33:28 AM - SeleniumDriver - INFO: Clear field with locator: datepick_in locatorType: name
+03/14/2020 12:33:28 AM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/14/2020 12:33:28 AM - SeleniumDriver - INFO: Sent data on element with locator: datepick_in locatorType: name
+03/14/2020 12:33:28 AM - SeleniumDriver - INFO: Typed Check In date - 12/10/2020
+03/14/2020 12:33:29 AM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/14/2020 12:33:29 AM - SeleniumDriver - INFO: Clear field with locator: datepick_out locatorType: name
+03/14/2020 12:33:29 AM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/14/2020 12:33:29 AM - SeleniumDriver - INFO: Sent data on element with locator: datepick_out locatorType: name
+03/14/2020 12:33:29 AM - SeleniumDriver - INFO: Typed Check Out date - 12/15/2020
+03/14/2020 12:33:30 AM - SeleniumDriver - INFO: Element found with locator: adult_room and  locatorType: name
+03/14/2020 12:33:30 AM - SeleniumDriver - INFO: Select on element with locator: adult_room locatorType: name
+03/14/2020 12:33:30 AM - SeleniumDriver - INFO: Selected Adults Per Room - 1 - One
+03/14/2020 12:33:31 AM - SeleniumDriver - INFO: Element found with locator: child_room and  locatorType: name
+03/14/2020 12:33:31 AM - SeleniumDriver - INFO: Select on element with locator: child_room locatorType: name
+03/14/2020 12:33:31 AM - SeleniumDriver - INFO: Selected Children Per Room - 1 - One
+03/14/2020 12:33:32 AM - Testcase_109_VerifyLogout - INFO: Click Search button.
+03/14/2020 12:33:32 AM - SeleniumDriver - INFO: Element found with locator: Submit and  locatorType: name
+03/14/2020 12:33:33 AM - SeleniumDriver - INFO: Clicked on element with locator: Submit locatorType: name
+03/14/2020 12:33:33 AM - Testcase_109_VerifyLogout - INFO: Search Page verify.
+03/14/2020 12:33:33 AM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/14/2020 12:33:33 AM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 12:33:33 AM - SeleniumDriver - INFO: Element found with locator: continue and  locatorType: name
+03/14/2020 12:33:33 AM - SeleniumDriver - INFO: Element present with locator: continue locatorType: name
+03/14/2020 12:33:34 AM - SeleniumDriver - INFO: Element found with locator: radiobutton_0 and  locatorType: name
+03/14/2020 12:33:34 AM - SeleniumDriver - INFO: Clicked on element with locator: radiobutton_0 locatorType: name
+03/14/2020 12:33:34 AM - SeleniumDriver - INFO: Selected first row in Select Hotel Page.
+03/14/2020 12:33:35 AM - SeleniumDriver - INFO: Element found with locator: continue and  locatorType: name
+03/14/2020 12:33:37 AM - SeleniumDriver - INFO: Clicked on element with locator: continue locatorType: name
+03/14/2020 12:33:37 AM - SeleniumDriver - INFO: Clicked 'Continue' button.
+03/14/2020 12:33:37 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+03/14/2020 12:33:37 AM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 12:33:37 AM - SeleniumDriver - INFO: Element found with locator: first_name and  locatorType: name
+03/14/2020 12:33:37 AM - SeleniumDriver - INFO: Element present with locator: first_name locatorType: name
+03/14/2020 12:33:38 AM - SeleniumDriver - INFO: Element found with locator: first_name and  locatorType: name
+03/14/2020 12:33:38 AM - SeleniumDriver - INFO: Sent data on element with locator: first_name locatorType: name
+03/14/2020 12:33:38 AM - SeleniumDriver - INFO: Typed in First Name filed - Jay
+03/14/2020 12:33:39 AM - SeleniumDriver - INFO: Element found with locator: last_name and  locatorType: name
+03/14/2020 12:33:39 AM - SeleniumDriver - INFO: Sent data on element with locator: last_name locatorType: name
+03/14/2020 12:33:39 AM - SeleniumDriver - INFO: Typed in Last Name filed - Jo
+03/14/2020 12:33:40 AM - SeleniumDriver - INFO: Element found with locator: address and  locatorType: name
+03/14/2020 12:33:40 AM - SeleniumDriver - INFO: Sent data on element with locator: address locatorType: name
+03/14/2020 12:33:40 AM - SeleniumDriver - INFO: Typed in Billing Address filed - Bellevue
+03/14/2020 12:33:41 AM - SeleniumDriver - INFO: Element found with locator: cc_num and  locatorType: name
+03/14/2020 12:33:41 AM - SeleniumDriver - INFO: Sent data on element with locator: cc_num locatorType: name
+03/14/2020 12:33:41 AM - SeleniumDriver - INFO: Typed in Credit Card Number filed - 1234567898765432
+03/14/2020 12:33:42 AM - SeleniumDriver - INFO: Element found with locator: cc_type and  locatorType: name
+03/14/2020 12:33:42 AM - SeleniumDriver - INFO: Select on element with locator: cc_type locatorType: name
+03/14/2020 12:33:42 AM - SeleniumDriver - INFO: Selected in Credit Card Type - VISA
+03/14/2020 12:33:43 AM - SeleniumDriver - INFO: Element found with locator: cc_exp_month and  locatorType: name
+03/14/2020 12:33:43 AM - SeleniumDriver - INFO: Select on element with locator: cc_exp_month locatorType: name
+03/14/2020 12:33:43 AM - SeleniumDriver - INFO: Selected in Credit Card Expiry Month - May
+03/14/2020 12:33:44 AM - SeleniumDriver - INFO: Element found with locator: cc_exp_year and  locatorType: name
+03/14/2020 12:33:44 AM - SeleniumDriver - INFO: Select on element with locator: cc_exp_year locatorType: name
+03/14/2020 12:33:44 AM - SeleniumDriver - INFO: Selected in Credit Card Expiry Year - 2021
+03/14/2020 12:33:45 AM - SeleniumDriver - INFO: Element found with locator: cc_cvv and  locatorType: name
+03/14/2020 12:33:45 AM - SeleniumDriver - INFO: Sent data on element with locator: cc_cvv locatorType: name
+03/14/2020 12:33:45 AM - SeleniumDriver - INFO: Typed in Billing Address filed - 123
+03/14/2020 12:33:46 AM - SeleniumDriver - INFO: Element found with locator: book_now and  locatorType: name
+03/14/2020 12:33:46 AM - SeleniumDriver - INFO: Clicked on element with locator: book_now locatorType: name
+03/14/2020 12:33:46 AM - SeleniumDriver - INFO: Clicked Book Now button.
+03/14/2020 12:33:46 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+03/14/2020 12:33:52 AM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 12:33:52 AM - SeleniumDriver - INFO: Element found with locator: order_no and  locatorType: name
+03/14/2020 12:33:52 AM - SeleniumDriver - INFO: Element present with locator: order_no locatorType: name
+03/14/2020 12:33:53 AM - SeleniumDriver - INFO: Element found with locator: logout and  locatorType: name
+03/14/2020 12:33:53 AM - SeleniumDriver - INFO: Clicked on element with locator: logout locatorType: name
+03/14/2020 12:33:53 AM - SeleniumDriver - INFO: Clicked Logout button.
+03/14/2020 12:33:53 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+03/14/2020 12:33:53 AM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 12:33:53 AM - SeleniumDriver - INFO: Element found with locator: //td[@class='reg_success'] and  locatorType: xpath
+03/14/2020 12:33:53 AM - SeleniumDriver - INFO: Getting text on element :: 
+03/14/2020 12:33:53 AM - SeleniumDriver - INFO: The text is :: 'You have successfully logged out. Click here to login again'
+03/14/2020 12:33:53 AM - Testcase_109_VerifyLogout - INFO: 'test_TC09_verifyLogout' completed.
+03/14/2020 12:33:53 AM - Testcase_109_VerifyLogout - INFO: ########################################
+03/14/2020 12:33:53 AM - Testcase_109_VerifyLogout - INFO: ########################################
+03/14/2020 11:29:45 PM - Testcase_101_VerifyLogin - INFO: ########################################
+03/14/2020 11:29:45 PM - Testcase_101_VerifyLogin - INFO: 'test_TC01_verifylogin' started.
+03/14/2020 11:29:45 PM - Testcase_101_VerifyLogin - INFO: ########################################
+03/14/2020 11:29:45 PM - Testcase_101_VerifyLogin - INFO: Log in to Hotel app.
+03/14/2020 11:29:45 PM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: name
+03/14/2020 11:29:45 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: name
+03/14/2020 11:29:45 PM - SeleniumDriver - INFO: Typed in user name filed - seattletester
+03/14/2020 11:29:46 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: name
+03/14/2020 11:29:46 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: name
+03/14/2020 11:29:46 PM - SeleniumDriver - INFO: Typed in password filed - Seattle123
+03/14/2020 11:29:47 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: name
+03/14/2020 11:30:00 PM - SeleniumDriver - INFO: Clicked on element with locator: login locatorType: name
+03/14/2020 11:30:00 PM - SeleniumDriver - INFO: Clicked Login Button.
+03/14/2020 11:30:00 PM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/14/2020 11:30:00 PM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 11:30:00 PM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/14/2020 11:30:00 PM - SeleniumDriver - INFO: Element present with locator: location locatorType: name
+03/14/2020 11:30:00 PM - Testcase_101_VerifyLogin - INFO: ### VERIFICATION SUCCESSFUL :: Login.
+03/14/2020 11:30:00 PM - Testcase_101_VerifyLogin - INFO: ########################################
+03/14/2020 11:30:00 PM - Testcase_101_VerifyLogin - INFO: 'test_TC01_verifylogin' completed.
+03/14/2020 11:30:00 PM - Testcase_101_VerifyLogin - INFO: ########################################
+03/14/2020 11:30:12 PM - Testcase_102_VerifyCheckOutError - INFO: ########################################
+03/14/2020 11:30:12 PM - Testcase_102_VerifyCheckOutError - INFO: 'test_TC02_verifyCheckoutError' started.
+03/14/2020 11:30:12 PM - Testcase_102_VerifyCheckOutError - INFO: ########################################
+03/14/2020 11:30:12 PM - Testcase_102_VerifyCheckOutError - INFO: Log in to Hotel app.
+03/14/2020 11:30:12 PM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: name
+03/14/2020 11:30:12 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: name
+03/14/2020 11:30:12 PM - SeleniumDriver - INFO: Typed in user name filed - seattletester
+03/14/2020 11:30:13 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: name
+03/14/2020 11:30:13 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: name
+03/14/2020 11:30:13 PM - SeleniumDriver - INFO: Typed in password filed - Seattle123
+03/14/2020 11:30:14 PM - SeleniumDriver - INFO: Element found with locator: login and  locatorType: name
+03/14/2020 11:30:15 PM - SeleniumDriver - INFO: Clicked on element with locator: login locatorType: name
+03/14/2020 11:30:15 PM - SeleniumDriver - INFO: Clicked Login Button.
+03/14/2020 11:30:15 PM - SeleniumDriver - INFO: Waiting for maximum :: 20 :: seconds for element to be clickable
+03/14/2020 11:30:15 PM - SeleniumDriver - INFO: Element appeared on the web page
+03/14/2020 11:30:15 PM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/14/2020 11:30:15 PM - SeleniumDriver - INFO: Element present with locator: location locatorType: name
+03/14/2020 11:30:15 PM - Testcase_102_VerifyCheckOutError - INFO: ### VERIFICATION SUCCESSFUL :: Login.
+03/14/2020 11:30:16 PM - Testcase_102_VerifyCheckOutError - INFO: Input data in Search Hotel Page.
+03/14/2020 11:30:16 PM - SeleniumDriver - INFO: Element found with locator: location and  locatorType: name
+03/14/2020 11:30:16 PM - SeleniumDriver - INFO: Select on element with locator: location locatorType: name
+03/14/2020 11:30:16 PM - SeleniumDriver - INFO: Selected Location - Sydney
+03/14/2020 11:30:17 PM - SeleniumDriver - INFO: Element found with locator: hotels and  locatorType: name
+03/14/2020 11:30:17 PM - SeleniumDriver - INFO: Select on element with locator: hotels locatorType: name
+03/14/2020 11:30:17 PM - SeleniumDriver - INFO: Selected Hotel - Hotel Creek
+03/14/2020 11:30:18 PM - SeleniumDriver - INFO: Element found with locator: room_type and  locatorType: name
+03/14/2020 11:30:18 PM - SeleniumDriver - INFO: Select on element with locator: room_type locatorType: name
+03/14/2020 11:30:18 PM - SeleniumDriver - INFO: Selected Room Type - Standard
+03/14/2020 11:30:19 PM - SeleniumDriver - INFO: Element found with locator: room_nos and  locatorType: name
+03/14/2020 11:30:19 PM - SeleniumDriver - INFO: Select on element with locator: room_nos locatorType: name
+03/14/2020 11:30:19 PM - SeleniumDriver - INFO: Selected Room Number - 1 - One
+03/14/2020 11:30:20 PM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/14/2020 11:30:20 PM - SeleniumDriver - INFO: Clear field with locator: datepick_in locatorType: name
+03/14/2020 11:30:20 PM - SeleniumDriver - INFO: Element found with locator: datepick_in and  locatorType: name
+03/14/2020 11:30:20 PM - SeleniumDriver - INFO: Sent data on element with locator: datepick_in locatorType: name
+03/14/2020 11:30:20 PM - SeleniumDriver - INFO: Typed Check In date - 12/20/2020
+03/14/2020 11:30:21 PM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/14/2020 11:30:21 PM - SeleniumDriver - INFO: Clear field with locator: datepick_out locatorType: name
+03/14/2020 11:30:21 PM - SeleniumDriver - INFO: Element found with locator: datepick_out and  locatorType: name
+03/14/2020 11:30:21 PM - SeleniumDriver - INFO: Sent data on element with locator: datepick_out locatorType: name
+03/14/2020 11:30:21 PM - SeleniumDriver - INFO: Typed Check Out date - 12/15/2020
+03/14/2020 11:30:22 PM - SeleniumDriver - INFO: Element found with locator: adult_room and  locatorType: name
+03/14/2020 11:30:22 PM - SeleniumDriver - INFO: Select on element with locator: adult_room locatorType: name
+03/14/2020 11:30:22 PM - SeleniumDriver - INFO: Selected Adults Per Room - 1 - One
+03/14/2020 11:30:23 PM - SeleniumDriver - INFO: Element found with locator: child_room and  locatorType: name
+03/14/2020 11:30:24 PM - SeleniumDriver - INFO: Select on element with locator: child_room locatorType: name
+03/14/2020 11:30:24 PM - SeleniumDriver - INFO: Selected Children Per Room - 1 - One
+03/14/2020 11:30:25 PM - Testcase_102_VerifyCheckOutError - INFO: Click Search button.
+03/14/2020 11:30:25 PM - SeleniumDriver - INFO: Element found with locator: Submit and  locatorType: name
+03/14/2020 11:30:25 PM - SeleniumDriver - INFO: Clicked on element with locator: Submit locatorType: name
+03/14/2020 11:30:26 PM - SeleniumDriver - INFO: Element found with locator: checkin_span and  locatorType: id
+03/14/2020 11:30:26 PM - SeleniumDriver - INFO: Element present with locator: checkin_span locatorType: id
+03/14/2020 11:30:26 PM - Testcase_102_VerifyCheckOutError - INFO: ### VERIFICATION SUCCESSFUL :: Check in date error message.
+03/14/2020 11:30:26 PM - Testcase_102_VerifyCheckOutError - INFO: ########################################
+03/14/2020 11:30:26 PM - Testcase_102_VerifyCheckOutError - INFO: 'test_TC02_verifyCheckoutError' completed.
+03/14/2020 11:30:26 PM - Testcase_102_VerifyCheckOutError - INFO: ########################################
